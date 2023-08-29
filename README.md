@@ -18,32 +18,33 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-**WIP**
+![](./images/qr-code-component-screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/jmadilia/qr-code-component)
+- Live Site URL: [Add live site URL here](https://jmadilia.github.io/qr-code-component/)
 
 ## My process
 
 ### Built with
 
-**WIP**
+- HTML
+- Tailwind CSS
 
 ### What I learned
 
-**WIP**
+Proper setup of Tailwind (initializing config file, setting up script for build with PostCSS, dependencies, etc.).
 
 ### Continued development
 
-**WIP**
+- I did not quite get the [Prettier plugin](https://tailwindcss.com/docs/editor-setup#automatic-class-sorting-with-prettier) to work correctly. It would certainly help for slightly easier readability on long class names that have many utilities applied to them.
+- More organized file structure.
+- I could not get the paragraph padding <i>just</i> right how I wanted it to be. Practice makes perfect! :grin:
 
 ### Useful resources
 
-**WIP**
+The Tailwind official documentation is loaded with helpful examples, including code snippets and screenshots. Specifically, the [Editor Setup](https://tailwindcss.com/docs/editor-setup) was most helpful for a smooth VS Code experience.
 
 ## Author
 
